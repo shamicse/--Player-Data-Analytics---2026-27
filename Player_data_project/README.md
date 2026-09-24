@@ -46,7 +46,7 @@ Player_data_project/
 cd Player_data_project
 
 # 2. Install dependencies
-pip install -r requirements.txt
+cd Player_data_project
 
 # 3. Train the model & export charts
 python dashboard/modeling.py
